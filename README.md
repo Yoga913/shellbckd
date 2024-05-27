@@ -2,7 +2,7 @@
 #### Versi 1.0
 
 <p align="pusat">
-  <img src="" alt="Deskripsi Gambar" width="300">
+  <img src="https://github.com/Yoga913/shellbckd/blob/main/sheellbackdor.png" alt="Deskripsi Gambar" width="300">
 </p>
 
 ----
