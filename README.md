@@ -1,7 +1,7 @@
 # shellbckd
 #### Versi 1.0
 
-<p align="pusat">
+<p align="center">
   <img src="https://github.com/Yoga913/shellbckd/blob/main/sheellbackdor.png" alt="Deskripsi Gambar" width="300">
 </p>
 
